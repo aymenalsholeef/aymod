@@ -1,4 +1,4 @@
-{"version_code":40,"content":"
+{"version_code":20,"content":"
 <p>تحديث 1.90 </p>
 
   <li>مبني على الاصدار[2.19.230]</li>
