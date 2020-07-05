@@ -1,16 +1,10 @@
-{"version_code":70,"content":"
-<p>تحديث إصلاحي 20.1.1</p>
+{"version_code":4524337,"content":"
+<p>تنبيه</p>
 
-<li>إضافة خيار لتحويل الصوت أثناء التحدث إلى نص</li>
-<li>إضافة خيار لإرسال رسائل فارغة</li>
-<li>إصلاح الإنهيار عند الضغط على أيقونة تنزيل الحالات</li>
-<li>إصلاحات وتحسينات</li>
+<li>مهم</li>
+
+<li>تجربه</li>
 
 
-<li> Added option to Make Speak to Text</li>
-<li> Added option to send Empty Messages</li>
-<li> Fixed Crash at click download statuses icon</li>
-<li> Other Fixed</li>
-
-","url":"https://www.tech0guys.com/2019/09/aymods.html"
+","url":"https://raw.githubusercontent.com/aymenalsholeef/aymod/master/updatelog.txt"
 }
