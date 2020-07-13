@@ -1,9 +1,9 @@
 {"version_code":4524337,"content":"
-<p>تنبيه</p>
+<p>تحديث جديد الاصدار 5.0.0</p>
 
-<li>مهم</li>
-
-<li>تجربه</li>
+<li>اضافه الرساله المجدوله</li>
+<li>يمكنك معرفة من قام بتحويل الرساله </li>
+<li>يمكنك التجربه </li>
 
 
 ","url":"https://raw.githubusercontent.com/aymenalsholeef/aymod/master/updatelog.txt"
